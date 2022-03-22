@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ここにあったすべてのリポジトリは[Project TDM](https://github.com/ProjectTDM)に移動しました。
+
 <!--
 **tunakaniri/tunakaniri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
